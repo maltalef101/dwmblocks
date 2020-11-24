@@ -12,6 +12,7 @@ static const Block blocks[] = {
 	{"",        "memory",       1,		            3},
     {"",        "mailbox",	    30,		            2},
 	{"",        "clock",		1,		            1},
+	{"",        "volume",		1,		            16},
 	{"",        "moonphase",	1,		            0},
 };
 
